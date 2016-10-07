@@ -15,7 +15,10 @@
 </head>
 <body class="<%= body_class %>">
   <%= render "flashes" -%>
+  <%= render "header" -%>
+  <div id="page-wrapper">
   <%= yield %>
+  </div>
   <%= render "javascript" %>
   <%= render "css_overrides" %>
 </body>

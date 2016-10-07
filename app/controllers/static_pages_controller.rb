@@ -3,7 +3,7 @@ class StaticPagesController < ApplicationController
       #code
     end
 
-    def about
+    def left_sidebar
       #code
     end
 end
