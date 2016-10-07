@@ -3,7 +3,7 @@
 This is a base Rails 5 application using Suspenders with the html5up theme "Dopetrope"
 
 - [Suspenders APP template by thoughtbot](https://github.com/thoughtbot/suspenders "Suspenders")
-- [Dopetrope theme by html5up](https://html5up.net/Dopetrope "Dopetrope Theme")
+- [Dopetrope theme by html5up](https://html5up.net/dopetrope "Dopetrope Theme")
 
 ## Getting Started
 
