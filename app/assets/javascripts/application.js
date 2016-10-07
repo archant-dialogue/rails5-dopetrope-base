@@ -12,5 +12,10 @@
 //
 //= require jquery
 //= require jquery_ujs
+//= require jquery.dropotron.min
+//= require skel.min
+//= require skel-viewport.min
+//= require util
+//= require main
 
 //= require_tree .
